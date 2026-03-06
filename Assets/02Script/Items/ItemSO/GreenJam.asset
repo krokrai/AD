@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9f20af7c00bf2c48bea6dce832052f8, type: 3}
+  m_Name: GreenJam
+  m_EditorClassIdentifier: Assembly-CSharp::Jams
+  jamID: 4
+  jamName: "\uCD08\uB85D\uC7BC"
+  description:
+  - "\uCCB4\uB825 20 \uCD94\uAC00"
+  - "\uC810\uD504\uB825 1 \uCD94\uAC00"
+  image: {fileID: -8845082170842903641, guid: d3191364391cfa844bfd2dbd661ff656, type: 3}
+  modify1: 20
+  modify2: 1
